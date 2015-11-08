@@ -1,0 +1,44 @@
+html,body,div{
+    margin:0;
+    border:0;
+}
+
+body{
+    background-color:lightGrey;
+}
+
+.banners{
+    text-align:center;
+    width:100%;
+    height:10%;
+}
+
+.swag{
+    color:white;
+    text-align:center;
+    Width:33.333333%;
+    height:80%;
+    float:left;
+}
+
+#top_nav{
+    background-color:#810040;
+    float:inherit;
+}
+
+#left{
+    background-color:#008141;
+}
+
+#center{
+    background-color:black;
+}
+
+#right{
+    background-color:purple;
+}
+
+#bottom_nav{
+    background-color:#E88472;
+    float:none;
+}
